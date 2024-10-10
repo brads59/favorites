@@ -24,6 +24,7 @@
 - [docker](https://github.com/wsargent/docker-cheat-sheet)
     - [dockerfiles](https://github.com/jessfraz/dockerfiles)
 - [saltstack](https://github.com/saltstack/salt/wiki/Cheat-Sheet)
+    - [my favorite](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet#TOC-PILLAR)
 - [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet)
 
 ## Programming Languages
