@@ -113,6 +113,7 @@
 - [tmux](https://gist.github.com/andreyvit/2921703)
 - [Unix Toolbox](https://web.archive.org/web/20210916210855/http://cb.vu/unixtoolbox.xhtml)
 - [sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [kubectx](https://github.com/ahmetb/kubectx)
 
 ## Security
 
