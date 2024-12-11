@@ -1,4 +1,5 @@
-
+#Recent favorites
+- [sshlogger](https://github.com/sshlog/agent/)
 # Awesome Cheatsheet 
 > List of useful cheatsheets
 
