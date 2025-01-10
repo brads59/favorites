@@ -115,7 +115,7 @@
 - [Unix Toolbox](https://web.archive.org/web/20210916210855/http://cb.vu/unixtoolbox.xhtml)
 - [sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [kubectx](https://github.com/ahmetb/kubectx)
-
+- [bash-obfuscate](https://www.npmjs.com/package/bash-obfuscate)
 ## Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
